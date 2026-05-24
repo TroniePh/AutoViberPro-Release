@@ -1,9 +1,9 @@
 {
-  "version": "1.0.16",
-  "tag": "v1.0.16",
-  "name": "Auto Viber Pro v1.0.16",
-  "asset_name": "AutoViberPro-Setup-v1.0.16.exe",
-  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.16/AutoViberPro-Setup-v1.0.16.exe",
-  "size": 17048592,
-  "notes": "Adds per-weekday special image folders, folder file preview, four-corner timestamp positioning, save/load location config controls, log export, Viber.exe auto-detection, language preference storage, and preserves the silent auto-update flow."
+  "version": "1.0.17",
+  "tag": "v1.0.17",
+  "name": "Auto Viber Pro v1.0.17",
+  "asset_name": "AutoViberPro-Setup-v1.0.17.exe",
+  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.17/AutoViberPro-Setup-v1.0.17.exe",
+  "size": 17050816,
+  "notes": "Fixes clipped controls by increasing the working window size and makes the VI/EN language switch apply immediately to visible tabs, labels, buttons, switches, and position choices."
 }
