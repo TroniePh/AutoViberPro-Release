@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
-  "tag": "v1.0.20",
-  "name": "Auto Viber Pro v1.0.20",
-  "asset_name": "AutoViberPro-Setup-v1.0.20.exe",
-  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.20/AutoViberPro-Setup-v1.0.20.exe",
-  "size": 17055216,
-  "notes": "Adds a Premium license badge with gold glow styling and a subtle sparkling animation in the app footer, while keeping other license plans in the standard style."
+  "version": "1.0.21",
+  "tag": "v1.0.21",
+  "name": "Auto Viber Pro v1.0.21",
+  "asset_name": "AutoViberPro-Setup-v1.0.21.exe",
+  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.21/AutoViberPro-Setup-v1.0.21.exe",
+  "size": 17053678,
+  "notes": "Refines the Premium footer badge into a dark neon gold glow style and adds the Vietnam flag next to the VI language switch."
 }
