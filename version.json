@@ -1,9 +1,9 @@
 {
-  "version": "1.0.14",
-  "tag": "v1.0.14",
-  "name": "Auto Viber Pro v1.0.14",
-  "asset_name": "AutoViberPro-Setup-v1.0.14.exe",
-  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.14/AutoViberPro-Setup-v1.0.14.exe",
-  "size": 17035574,
-  "notes": "Auto-update now downloads, installs silently, and reopens the app without asking the customer again. Login is remembered after first success; later launches only check the online GitHub license key and block expired or removed keys with Pham Duy contact details."
+  "version": "1.0.15",
+  "tag": "v1.0.15",
+  "name": "Auto Viber Pro v1.0.15",
+  "asset_name": "AutoViberPro-Setup-v1.0.15.exe",
+  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.15/AutoViberPro-Setup-v1.0.15.exe",
+  "size": 17038790,
+  "notes": "Fixes the Windows title bar and taskbar logo by applying the bundled ICO to every app window, setting a Windows AppUserModelID, and rebuilding the ICO with 16/24/32/48/64/128/256 sizes."
 }
