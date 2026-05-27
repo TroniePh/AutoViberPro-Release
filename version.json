@@ -1,9 +1,9 @@
-{
-  "version": "1.0.24",
-  "tag": "v1.0.24",
-  "name": "Auto Viber Pro v1.0.24",
-  "asset_name": "AutoViberPro-Setup-v1.0.24.exe",
-  "download_url": "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.24/AutoViberPro-Setup-v1.0.24.exe",
-  "size": 17056590,
-  "notes": "Auto-load ảnh khi chọn thư mục, double-click thêm slot, chọn thư mục test với preview thumbnail."
+﻿{
+    "version":  "1.0.26",
+    "tag":  "v1.0.26",
+    "name":  "Auto Viber Pro v1.0.26",
+    "asset_name":  "AutoViberPro-Setup-v1.0.26.exe",
+    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.26/AutoViberPro-Setup-v1.0.26.exe",
+    "size":  17066147,
+    "notes":  "Fix flexible time input, folder image slot assignment, raw update/license URLs, and schedule plan validation."
 }

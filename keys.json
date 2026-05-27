@@ -1,9 +1,8 @@
 {
-  "updated_at": "2026-05-24T00:00:00+07:00",
+  "updated_at": "2026-05-27T00:00:00+07:00",
   "keys": [
     {
       "id": "premium_3m",
-      "key": "AVP-PREMIUM-3M-2026-DUY-7K9Q",
       "sha256": "1bd739c726e02121a1718ebafd83ea5be6e2a951ca1baa69c92a563f7e9a1c2a",
       "plan": "Premium",
       "expires_at": "2026-08-24T00:00:00+07:00",
@@ -11,7 +10,6 @@
     },
     {
       "id": "test",
-      "key": "AVP-TEST-2026-DUY-X4P8",
       "sha256": "a606022973df086f52e2d7f4879b01c03d8b8fa8312db8cf2c10ea38fd023c76",
       "plan": "Test",
       "expires_at": "2026-05-31T00:00:00+07:00",
@@ -19,7 +17,6 @@
     },
     {
       "id": "lifetime",
-      "key": "AVP-LIFETIME-DUY-2026-L9M2",
       "sha256": "2da88469f09f8670f0019e70b1a6a3c756afebf371e81158bdf0cbab8499b905",
       "plan": "Lifetime",
       "expires_at": "",
