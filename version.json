@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.31",
-    "tag":  "v1.0.31",
-    "name":  "Auto Viber Pro v1.0.31",
-    "asset_name":  "AutoViberPro-Setup-v1.0.31.exe",
-    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.31/AutoViberPro-Setup-v1.0.31.exe",
-    "size":  17072563,
-    "notes":  "Fix Viber chat selection reliability."
+    "version":  "1.0.32",
+    "tag":  "v1.0.32",
+    "name":  "Auto Viber Pro v1.0.32",
+    "asset_name":  "AutoViberPro-Setup-v1.0.32.exe",
+    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.32/AutoViberPro-Setup-v1.0.32.exe",
+    "size":  17071122,
+    "notes":  "Fix weekday image selection and delete rendered output files after send."
 }
