@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.34",
-    "tag":  "v1.0.34",
-    "name":  "Auto Viber Pro v1.0.34",
-    "asset_name":  "AutoViberPro-Setup-v1.0.34.exe",
-    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.34/AutoViberPro-Setup-v1.0.34.exe",
-    "size":  17075679,
-    "notes":  "Simplify Windows startup: use per-user startup directly without Scheduled Task permission issues."
+    "version":  "1.0.35",
+    "tag":  "v1.0.35",
+    "name":  "Auto Viber Pro v1.0.35",
+    "asset_name":  "AutoViberPro-Setup-v1.0.35.exe",
+    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.35/AutoViberPro-Setup-v1.0.35.exe",
+    "size":  17074761,
+    "notes":  "Use the current day\u0027s configured folder for scheduled images, match same-time files inside that folder, and prevent duplicate same-time slots when adding folder images."
 }
