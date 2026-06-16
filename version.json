@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.48",
-    "tag":  "v1.0.48",
-    "name":  "Auto Viber Pro v1.0.48",
-    "asset_name":  "AutoViberPro-Setup-v1.0.48.exe",
-    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.48/AutoViberPro-Setup-v1.0.48.exe",
-    "size":  18745012,
-    "notes":  "Retry Viber conversation search until the configured group header is verified before paste/send; prefer matching the search result by group name and stop safely if the group cannot be confirmed."
+    "version":  "1.0.49",
+    "tag":  "v1.0.49",
+    "name":  "Auto Viber Pro v1.0.49",
+    "asset_name":  "AutoViberPro-Setup-v1.0.49.exe",
+    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.49/AutoViberPro-Setup-v1.0.49.exe",
+    "size":  18742336,
+    "notes":  "Remove regular weekday folder from daily-folder UI, fix daily-folder save error, and keep test/preview focused on configured daily folders."
 }
