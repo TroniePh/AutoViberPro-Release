@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.63",
-    "tag":  "v1.0.63",
-    "name":  "Auto Viber Pro v1.0.63",
-    "asset_name":  "AutoViberPro-Setup-v1.0.63.exe",
-    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.63/AutoViberPro-Setup-v1.0.63.exe",
-    "size":  20965676,
-    "notes":  "Update render overlay style for customer approval: Huntington Beach address, timestamp format with \u0027at\u0027, larger top-right white text, and softer drop shadow."
+    "version":  "1.0.64",
+    "tag":  "v1.0.64",
+    "name":  "Auto Viber Pro v1.0.64",
+    "asset_name":  "AutoViberPro-Setup-v1.0.64.exe",
+    "download_url":  "https://github.com/TroniePh/AutoViberPro-Release/releases/download/v1.0.64/AutoViberPro-Setup-v1.0.64.exe",
+    "size":  20965977,
+    "notes":  "Fix Viber sending when the pointer starts in a screen corner. Find the real search field when update banners change the layout. Reuse running Viber and recover replaced windows. Stop safely on mid-send fail-safe. Live-tested in the test group."
 }
